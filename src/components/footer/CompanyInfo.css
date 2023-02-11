@@ -1,0 +1,8 @@
+.footer-companyinfo{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    
+}

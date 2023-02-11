@@ -1,0 +1,131 @@
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url("../images/students_banner.jpg");
+  min-height: 80vh;
+  background-repeat: none;
+  background-size: cover;
+}
+.title {
+  position: absolute;
+  left: 22%;
+  top: 25%;
+  color: white;
+  font-size: 80px;
+  letter-spacing: 2px;
+  font-weight: 750;
+}
+.title-one {
+  position: absolute;
+  left: 20%;
+  top: 45.5%;
+  color: white;
+  font-size: 26px;
+  font-weight: lighter;
+  
+}
+.title-two {
+  position: absolute;
+  left: 24%;
+  top: 41%;
+  color: white;
+  font-size: 50px;
+  letter-spacing: 5px;
+  font-weight: 750;
+}
+
+.hero-discription {
+  position: absolute;
+  left: 20%;
+  top: 58%;
+  color: white;
+  font-size: 24px;
+}
+.hero-discription-one {
+  position: absolute;
+  left: 20%;
+  top: 64%;
+  color: white;
+  font-size: 24px;
+}
+.hero-discription-two {
+  position: absolute;
+  left: 20%;
+  top: 70%;
+  color: white;
+  font-size: 24px;
+}
+.tlogobox{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+.box1{
+  top: 34.6%;
+  left: 24%;
+  background-color: yellow;
+}
+.box2{
+  top: 32%;
+  left: 24%;
+  background-color: pink;
+
+}
+.box3{
+  top: 28.8%;
+  left: 15.8%;
+  width: 120px;
+  background-color: orange;
+  display: flex;
+}
+.box4{
+  top: 33.5%;
+  left: 13.9%;
+  height: 40px;
+}
+.box6{
+  top: 38.9%;
+  left: 13.9%;
+  width: 40px;
+  background-color: orange;
+  display: flex;
+}
+.box7{
+  top: 38.9%;
+  left: 16.9%;
+  height: 60px;
+  background-color: violet;
+}
+.box8{
+  top: 46.9%;
+  left: 16.9%;
+  width: 80px;
+  background-color: magenta;
+  display: flex;
+}
+.box9{
+  top: 29%;
+  left: 13.7%;
+  background-color: violet;
+}
+.box10{
+  top: 24%;
+  left: 14.7%;
+  background-color: violet;
+}
+.box11{
+  top: 26.8%;
+  left: 12.7%;
+  width: 12px;
+  height: 12px;
+  background-color: violet;
+}
+.box-border{
+  width: 12px;
+  height: 19px;
+  border: 1px solid white;
+}
+.box-border1{
+  width: 19px;
+  height: 12px;
+  border: 1px solid white;
+}

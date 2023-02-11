@@ -1,0 +1,313 @@
+.card{
+  background-color: #e8eae9;
+  height: 550px;
+}
+.card-title{
+  border: 1px solid #e8eae9;
+  display: flex;
+  justify-content: flex-start;
+}
+.card-title > p{
+  margin: 0px;
+  padding: 60px 210px ;
+  
+  
+  
+  font-size: 26px;
+  left: 80%;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+}
+.cards-up-one{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-top: 30px solid #1d2d60;
+  border-radius: 15px;
+  background-color: white;
+  height: 250px;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cards-up-one > p{
+  text-align: center;
+  font-size: 18px;
+}
+.cards-up-one > img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.cards-up-two{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-top: 30px solid #e35e13;
+  border-radius: 15px;
+  background-color: white;
+  height: 250px;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.cards-up-two > p{
+  text-align: center;
+  font-size: 18px;
+}
+.cards-up-two > img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.cards-up-three{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-top: 30px solid #b77d33;
+  border-radius: 15px;
+  background-color: white;
+  height: 250px;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.cards-up-three > p{
+  text-align: center;
+  font-size: 18px;
+}
+.cards-up-three > img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.cards-down-one{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-bottom: 30px solid #9d2157;
+  border-radius: 15px;
+  background-color: white;
+  height: 250px;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.cards-down-one > img {
+  width: 60px;
+  height: 60px;
+  margin-top: 20px;
+}
+.cards-down-two{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-bottom: 30px solid #195b37;
+  border-radius: 15px;
+  background-color: white;
+  height: 250px;
+  width: 185px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.cards-down-two > img {
+  width: 60px;
+  height: 60px;
+  margin-top: 20px;
+}
+.number-circle{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -27%;
+  border-radius: 50px;
+  
+}
+.number-circle > div{
+  text-align:center;
+  
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
+
+/* hello */
+.number-circle1{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -23%;
+  border-radius: 50px;
+  
+}
+.number-circle1 > div{
+  text-align:center;
+  
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers1{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #e35e13;
+}
+/* hello */
+.number-circle3{
+  width: 50px;
+  height: 50px;
+  background-color: #e3dee4;
+  position: relative;
+  top: -31%;
+  border-radius: 50px;
+  
+}
+.number-circle3 > div{
+  text-align:center;
+  position: relative;
+  top: -55%;
+  left: 2%;
+}
+.numbers3{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #b77d33;
+}
+/* just comment */
+.circle-number-down1 > div{
+  text-align:center;
+  
+  position: relative;
+  top: 120%;
+  left: 2%;
+}
+.numberd1{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
+.circle-number-down2 > div{
+  text-align:center;
+  
+  position: relative;
+  top: 160%;
+  left: 2%;
+}
+.numberd2{
+  font-weight: 800px;
+  font-size: 30px;
+  color: #1d2d60;
+}
+/* 
+just comment */
+
+/* .circle-number-down1{
+  width: 50px;
+  height: 50px;
+  background-color: #9d2157;
+  position: relative;
+  top: 28%;
+  border-radius: 50px;
+} */
+/* .circle-numberd1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+} */
+/* .circle-numberd1 > h4{
+  text-align: center;
+  left: 20%;
+} */
+
+/* hello */
+
+/* .circle-number-down2{
+  width: 50px;
+  height: 50px;
+  background-color: #195b37;
+  position: relative;
+  top: 31%;
+  border-radius: 50px;
+}
+.circle-numberd2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.circle-numberd2 > p{
+  text-align: center;
+  left: 20%;
+  color: #195b37;
+} */
+
+/* .card{
+  background-color: #e8eae9;
+  height: 500px;
+}
+
+.card-title{
+  position: relative;
+  top: 20%;
+  margin: 0px;
+  padding: 0px;
+  font-size: 24px;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+}
+
+.card-upwards{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-bottom: 20px solid black;
+  border-radius: 8px;
+  transition: 0.3s;
+  width: 10%;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  top: 30%;
+  background-color: white;
+  
+  
+}
+.card-title{
+  font-size: 14px;
+}
+.card-downwards{
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+  border-top: 20px solid black;
+  border-radius: 8px;
+  transition: 0.3s;
+  width: 10%;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+}
+.card-image{
+    background-image: url("../images/ai-chipos.png");
+    width: 100px;
+    height: 100px;
+    margin: auto;
+
+
+} */
